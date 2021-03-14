@@ -1,0 +1,38 @@
+*{
+    background-color:chocolate;
+    text-align: center;
+}
+input{
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 80px;
+    width: 400px;
+    background-color:darkmagenta ;
+    color: darkseagreen;
+    box-shadow: 5px 5px 5px 5px darkseagreen ;
+}
+.output{
+    background-color:gainsboro;
+    text-align: center;
+    color: black;
+    width: 20px;
+    height: 10px;
+    font-size: 10px;
+    box-sizing: border-box;
+    box-shadow: 10px 20px 30px 40px rgb(8, 10, 8) ;
+    margin-left: 50px;
+    padding: 50px;
+    padding-top: 40px;
+    margin-bottom: 30px;
+    display: none;
+    font-weight: bolder;
+}
+#clear{
+    color: blanchedalmond;
+    background-color: blueviolet;
+    width: 20px;
+    height: 20px;
+    font-size: 10px;
+    display: none;
+}
